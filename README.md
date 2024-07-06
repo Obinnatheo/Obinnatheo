@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Obinnatheo</h1>
 <h3 align="center">A Passionate software engineer</h3>
-<img src="https://www.google.com/imgres?q=animated%20coding%20gif&imgurl=https%3A%2F%2Fsteamuserimages-a.akamaihd.net%2Fugc%2F1631947648964785474%2F81CBA15178466DD47195A239232202E78987B714%2F%3Fimw%3D637%26imh%3D358%26ima%3Dfit%26impolicy%3DLetterbox%26imcolor%3D%2523000000%26letterbox%3Dtrue&imgrefurl=https%3A%2F%2Fsteamcommunity.com%2Fsharedfiles%2Ffiledetails%2F%3Fid%3D2217383700&docid=OqQy2CDVrLaFHM&tbnid=MJ0GCyn3Wm5EDM&vet=12ahUKEwit5bjJiZGHAxUygv0HHSa2BeUQM3oECHgQAA..i&w=256&h=256&hcb=2&ved=2ahUKEwit5bjJiZGHAxUygv0HHSa2BeUQM3oECHgQAA" alt="developer" align="right" width="400"/>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obinnatheo&label=Profile%20views&color=0e75b6&style=flat" alt="obinnatheo" /> </p>
 
