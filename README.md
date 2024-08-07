@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Mobile application development**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Andriod Development**
 
 - 👯 I’m looking to collaborate on **Open source project**
 
