@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Obinnatheo</h1>
+<h1 align="center">Hi 👋, I'm Obinna theo</h1>
 <h3 align="center">A Passionate software engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
